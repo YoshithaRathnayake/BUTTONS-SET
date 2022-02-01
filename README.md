@@ -1,4 +1,4 @@
-# <div align="center"><a href="https://yoshitharathnayake.w3spaces.com/Buttons.html"><b><i>WELCOME!, TO MY BUTTONS SET</i></b></a></div> 
+# <div align="center"><a href="https://yoshitharathnayake.github.io/Buttons-Set/"><b><i>WELCOME!, TO MY BUTTONS SET</i></b></a></div> 
 
 > This is the Set of Buttons that I made using <b><i>[JavaScript Programming Language](https://www.w3schools.com/js/)</i></b>
 

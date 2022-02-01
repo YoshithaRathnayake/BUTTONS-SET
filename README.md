@@ -2,7 +2,7 @@
 
 > This is the Set of Buttons that I made using <b><i>[JavaScript Programming Language](https://www.w3schools.com/js/)</i></b>
 
-# <div align="center"><img src="Images/Buttons.png" width="300px"></div>
+# <div align="center"><img src="images/Buttons.png" width="300px"></div>
 
 # [![Contributors](https://img.shields.io/badge/Contributors-1-lawngreen.svg?style=flat-square)](#contributors-)
 

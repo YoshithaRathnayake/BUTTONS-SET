@@ -29,4 +29,4 @@ The purpose of this Pull Request is to fix #<issue-number>
 <!--- List all JDK versions, operating systems, databases, and browser/versions on which this feature/fix was tested --> 
 
 ## Learning
-<!--- Describe the research phase and any blog posts, patterns, libraries, or add-ons you used to solve the problem. -->
+<!--- Describe the research phase and any blog posts, patterns, libraries, or add-ons you used to solve the problem. --> 

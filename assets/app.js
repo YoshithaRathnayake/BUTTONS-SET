@@ -120,4 +120,4 @@ UserName = prompt("Hi, I am Yoshitha Rathnayake. What is your name?");
         document.getElementById('id').style.fontSize = '100px';
         alert('You select 100px for above heading!');
         console.log('You select 100px for above heading!');
-    }
+    } 

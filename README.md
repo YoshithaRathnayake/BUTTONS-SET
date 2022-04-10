@@ -20,8 +20,8 @@ Available at :  <b><i>[https://yoshitharathnayake.w3spaces.com/Buttons.html](htt
 - Clone your forked repository
     
     ```
-    git clone https://github.com/USERNAME/Buttons-Set.git
-    cd Buttons-Set
+    git clone https://github.com/USERNAME/BUTTONS-SET.git
+    cd BUTTONS-SET
     ```
      
 #

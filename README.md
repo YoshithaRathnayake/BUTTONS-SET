@@ -1,4 +1,4 @@
-# <div align="center"><a href="https://yoshitharathnayake.github.io/Buttons-Set/"><b><i>WELCOME!, TO MY BUTTONS SET</i></b></a></div> 
+# <div align="center"><a href="https://yoshitharathnayake.github.io/BUTTONS-SET"><b><i>WELCOME!, TO MY BUTTONS SET</i></b></a></div> 
 
 > This is the Set of Buttons that I made using <b><i>[JavaScript Programming Language](https://www.w3schools.com/js/)</i></b>
 
@@ -12,7 +12,7 @@
 
 # [![Contributors](https://img.shields.io/badge/Contributors-1-lawngreen.svg?style=flat-square)](#contributors-)
 
-Available at :  <b><i>[https://yoshitharathnayake.w3spaces.com/Buttons.html](https://yoshitharathnayake.w3spaces.com/Buttons.html)</i></b>
+Available at :  <b><i>[https://yoshitharathnayake.github.io/BUTTONS-SET](https://yoshitharathnayake.github.io/BUTTONS-SET)</i></b>
 
 #
 # Run Locally

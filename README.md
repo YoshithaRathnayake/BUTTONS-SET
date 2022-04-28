@@ -1,7 +1,7 @@
 # <div align="center"><a href="https://yoshitharathnayake.github.io/BUTTONS-SET"><b><i>WELCOME!, TO MY BUTTONS SET</i></b></a></div> 
 
 
-# <div align="center"><img src="images/Buttons.png" width="300px"></div>
+# <div align="center"><img src="assets/img/Buttons.png" width="300px"></div>
 
 
 > This is the Set of Buttons that I made using <b><i>[JavaScript Programming Language](https://www.w3schools.com/js/)</i></b>

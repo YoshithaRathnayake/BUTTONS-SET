@@ -1,7 +1,4 @@
 # <div align="center"><a href="https://yoshitharathnayake.github.io/BUTTONS-SET"><b><i>WELCOME!, TO MY BUTTONS SET</i></b></a></div> 
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
-<!-- ALL-CONTRIBUTORS-BADGE:END -->
 
 
 # <div align="center"><img src="images/Buttons.png" width="300px"></div>
